@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React_test/static/css/main.073c9b0a.css",
+    "main.js": "/React_test/static/js/main.7f61c914.js",
+    "static/media/3.png": "/React_test/static/media/3.0eb0705defb269d759e3.png",
+    "static/media/2.png": "/React_test/static/media/2.de1deea0adfc2883ae80.png",
+    "static/media/1.png": "/React_test/static/media/1.59a31fe5e844f50e2832.png",
+    "static/media/4.png": "/React_test/static/media/4.ee8d808558f01865ab9f.png",
+    "static/media/heart-outline.png": "/React_test/static/media/heart-outline.a1091e36a2649c3f422c.png",
+    "static/media/heart-fill.png": "/React_test/static/media/heart-fill.c632474a1effded68147.png",
+    "static/media/icons8-slack.svg": "/React_test/static/media/icons8-slack.dd539816df4bede7d89d3b7090ed9279.svg",
+    "static/media/shape1.png": "/React_test/static/media/shape1.9a427074309602762779.png",
+    "static/media/icons8-twitter.svg": "/React_test/static/media/icons8-twitter.b3c9f1c7ec3ac0a75ed77b7cb4e7fe11.svg",
+    "static/media/icons8-facebook.svg": "/React_test/static/media/icons8-facebook.a267b31146b39923a3fe790492ad65f5.svg",
+    "static/media/icons8-player.svg": "/React_test/static/media/icons8-player.90e2230e26da9871d8712be50ebc4ddf.svg",
+    "static/media/icons8-instagram.svg": "/React_test/static/media/icons8-instagram.5d401d3c7584a38453f7385f49fa3ea7.svg",
+    "index.html": "/React_test/index.html",
+    "main.073c9b0a.css.map": "/React_test/static/css/main.073c9b0a.css.map",
+    "main.7f61c914.js.map": "/React_test/static/js/main.7f61c914.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7f61c914.js"
+  ]
+}
