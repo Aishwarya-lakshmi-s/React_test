@@ -1,0 +1,1 @@
+export const IMGE_BASE_URL = 'https://designing-world.com/funto-v1.2.1/'
